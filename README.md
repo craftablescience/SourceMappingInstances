@@ -9,6 +9,6 @@ Instances I made, released to the public domain.
  - `faith_fan_clean`
  - `faith_fan_dirty_broken`
 
-**Requires: HL2**
+**Requires: CSGO**
 
 A faith plate alternative. Only launches players in one direction, up.
